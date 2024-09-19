@@ -1,4 +1,4 @@
-# 🧮 Calculadora de IMC
+# 🔢 Calculadora de IMC
 
 Este projeto é uma simples calculadora de Índice de Massa Corporal (IMC) desenvolvida em Java. O IMC é uma medida utilizada para avaliar se uma pessoa está dentro de um peso saudável com base na relação entre peso e altura.
 
