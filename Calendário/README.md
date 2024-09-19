@@ -1,4 +1,4 @@
-# Calendário em Java
+# 📆 Calendário em Java
 
 Este projeto é uma aplicação de console em Java que permite ao usuário visualizar o calendário de um mês específico de um ano determinado. O programa solicita ao usuário que insira o mês e o ano desejados e exibe o calendário correspondente.
 
