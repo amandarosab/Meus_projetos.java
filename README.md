@@ -9,8 +9,8 @@ Diga a sua idade e receba uma verdade sobre você!
 Esse programa é um gerador de mensagens que exibe frases diferentes conforme a idade inserida, uma aplicação interativa e engraçada, desenvolvida para aplicar os ensinamentos da linguagem de programação Java.
 
 
-## Calculadora de IMC
-
+## 🔢 Calculadora de IMC
+Simples calculadora de Índice de Massa Corporal (IMC) desenvolvida em Java. O IMC é uma medida utilizada para avaliar se uma pessoa está dentro de um peso saudável com base na relação entre peso e altura.
 
 ## 🧮 My First Calculator - Simple Calculator!
 Este é o meu primeiro projeto em Java, onde desenvolvi uma calculadora simples chamada Simple Calculator. 
