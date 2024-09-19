@@ -1,18 +1,31 @@
-## Getting Started
+# 🧮 Calculadora de IMC
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto é uma simples calculadora de Índice de Massa Corporal (IMC) desenvolvida em Java. O IMC é uma medida utilizada para avaliar se uma pessoa está dentro de um peso saudável com base na relação entre peso e altura.
 
-## Folder Structure
+## Funcionalidades
+- O usuário insere sua altura (em metros) e peso (em quilos).
+- O programa calcula o IMC e classifica o resultado de acordo com as faixas de IMC:
+  - **Magreza Grave**: IMC <= 16
+  - **Magreza Moderada**: IMC entre 16 e 16.9
+  - **Magreza Leve**: IMC entre 17 e 18.5
+  - Outras classificações podem ser adicionadas conforme necessário.
 
-The workspace contains two folders by default, where:
+## Tecnologias Utilizadas
+- **Java**: Linguagem de programação usada para desenvolver a aplicação.
+- **Scanner**: Utilizado para capturar a entrada do usuário via console.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como Executar
+1. Certifique-se de ter o Java instalado em sua máquina.
+2. Compile o código Java:
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+    ```bash
+    javac Calculadora_IMC.java
+    ```
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+3. Execute o programa:
 
-## Dependency Management
+    ```bash
+    java Calculadora_IMC
+    ```
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+4. Siga as instruções no console para inserir sua altura e peso.
