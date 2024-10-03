@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        
+        // chamada para o usuário iniciar o programa
         System.out.println("Vamos calcular o seu IMC! Digite a sua altura: ");
         Scanner altura = new Scanner(System.in);
         double altura1 = altura.nextFloat();
@@ -13,6 +13,7 @@ public class App {
         double cal_Altura = (altura1*altura1);
         double cal_Imc = (peso1/cal_Altura);
 
+        // definição de condições para verificação do índice de massa corporal de acordo com as entradas do usuário
         if (cal_Imc <= 16) {
             System.out.printf("Você está com Magreza Grave, o seu IMC é de %.1f", cal_Imc);
         }
