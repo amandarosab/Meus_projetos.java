@@ -1,4 +1,4 @@
-import java.util.Locale;
+iimport java.util.Locale;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -14,7 +14,7 @@ public class Main {
         System.out.println("TEMPERTURE HOUSE CONTROLLER");
         Scanner sc = new Scanner(System.in);
         
-        System.out.println("What's the temperture of your house?");
+        System.out.println("What's the temperture of your house in graus Celcius?");
         termometer = sc.nextDouble();
 
         System.out.println("\nWhat's the status of the Sensor 1? (ON: true or OFF: false)");
