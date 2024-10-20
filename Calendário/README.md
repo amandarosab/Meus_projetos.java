@@ -12,14 +12,3 @@ Este projeto é uma aplicação de console em Java que permite ao usuário visua
 
 - Java 8 ou superior
 - IDE recomendada: Visual Studio Code ou Eclipse
-
-## 💡 Como executar?
-
-1. Clone o repositório (se aplicável) ou baixe o código
-   
-2. Abra o projeto em sua IDE (recomendado usar Visual Studio Code)
-
-4. Compile o arquivo `Calendário.java`:
-
-   ```bash
-   javac Calendário.java
