@@ -1,6 +1,6 @@
 # 🌡 Sistema de Temperatura para Casa
 
-permite que automação do ar condicionado e aquecedor através da temperatura indicada pelo usuário. 
+Essa aplicação permite a automação do ar condicionado e aquecedor através da temperatura indicada pelo usuário. 
 
 
 ## 🔧 Funcionalidades
