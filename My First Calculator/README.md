@@ -1,11 +1,11 @@
 # 🧮 My First Calculator
 
-A simple calculator application written in Java. This project demonstrates basic arithmetic operations using a user-friendly interface.
+Este projeto demonstra operações aritméticas básicas usando uma interface amigável.
 
 
 ## 🔧 Funcionalidades
 
-- Adição, Subtração, Multiplicação e Divisão
+- Adição, subtração, multiplicação e divisão
 - Funcionalidade de limpar e resetar
 - Manipulação simples de entrada de usuário
 
