@@ -1,18 +1,19 @@
-## Getting Started
+# 🌡 Sistema de Temperatura para Casa
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+permite que automação do ar condicionado e aquecedor através da temperatura indicada pelo usuário. 
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## 🔧 Funcionalidades
+- Interface simples para a inserção do valor de temperatura em graus Celcius.
+- O sistema verifica se os valores inseridos são válidos, como números reais e dentro de um intervalo razoável, para garantir a precisão das conversões.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 👟 Requisitos
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Java 8 ou superior
+- IDE recomendada: Visual Studio Code ou Eclipse
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 📱 Entre em contato
+
+Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repositório e enviar pull requests com melhorias ou novas funcionalidades**
