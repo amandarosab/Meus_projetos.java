@@ -12,8 +12,9 @@ Esse programa é um gerador de mensagens que exibe frases diferentes conforme a 
 ## 🔢 Calculadora de IMC
 Simples calculadora de Índice de Massa Corporal (IMC) desenvolvida em Java. O IMC é uma medida utilizada para avaliar se uma pessoa está dentro de um peso saudável com base na relação entre peso e altura.
 
-## 🧮 My First Calculator - Simple Calculator!
-Este é o meu primeiro projeto em Java, onde desenvolvi uma calculadora simples chamada Simple Calculator. 
+## 🌡 Sistema de Temperatura para Casa
+Essa aplicação realiza uma automação simples do ar condicionado e aquecedor através da temperatura (em ºC) indicada pelo usuário. 
 
+## 🧮 My First Calculator!
 O objetivo deste projeto é praticar os conceitos fundamentais de programação Java, como manipulação de variáveis, operadores e estruturas de controle.
 
