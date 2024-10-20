@@ -10,21 +10,5 @@ Este projeto é uma simples calculadora de Índice de Massa Corporal (IMC) desen
   - Outras classificações podem ser adicionadas conforme necessário.
 
 
-## 💡 Como executar?
-1. Certifique-se de ter o Java instalado em sua máquina.
-2. Compile o código Java:
-
-    ```bash
-    javac Calculadora_IMC.java
-    ```
-
-3. Execute o programa:
-
-    ```bash
-    java Calculadora_IMC
-    ```
-
-4. Siga as instruções no console para inserir sua altura e peso.
-
 ## 📱 Entre em contato
 Caso precise de ajustes ou mais detalhes, é só avisar!
